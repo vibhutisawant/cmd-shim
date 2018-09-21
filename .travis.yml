@@ -1,3 +1,4 @@
+os: linux-ppc64le
 language: node_js
 node_js:
   - "0.10"
